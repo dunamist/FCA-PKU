@@ -1,0 +1,39 @@
+# FCA-PKU
+
+此仓库包含北京大学开设的文科计算机基础课程的作业题目和机试题目。
+
+1. 20190919作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190919-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190919-2/)
+    - [第3题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190919-3/)
+    - [第4题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190919-4/)
+2. 20190925作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190925-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20190925-2/)
+3. 20191010作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191010-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191010-2/)
+4. 20191017作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191017-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191017-2/)
+5. 20191023作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191023-1/)
+6. 20191030作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191030-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191030-2/)
+7. 20191106作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/20/FCA-PKU-20191106-1/)
+8. 20191121作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/21/FCA-PKU-20191121-1/)
+9. 20191128作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/11/28/FCA-PKU-20191128-1/)
+10. 20191204作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/12/04/FCA-PKU-20191204-1/)
+11. 20191212作业
+    - [第1题](https://dunamist.github.io/fca-pku/2019/12/12/FCA-PKU-20191212-1/)
+12. 20191226机试
+    - [第1题](https://dunamist.github.io/fca-pku/2019/12/27/FCA-PKU-20191226-1/)
+    - [第2题](https://dunamist.github.io/fca-pku/2019/12/27/FCA-PKU-20191226-2/)
+    - [第3题](https://dunamist.github.io/fca-pku/2019/12/27/FCA-PKU-20191226-3/)
+    - [第4题](https://dunamist.github.io/fca-pku/2019/12/27/FCA-PKU-20191226-4/)
+    - [第5题](https://dunamist.github.io/fca-pku/2019/12/27/FCA-PKU-20191226-5/)
